@@ -1,0 +1,12 @@
+.content >div {
+    background-color: white;
+    width: 300px;
+    height: 500px;
+    border: 10px solid;
+    margin: 5px;
+    padding-left: 5px;
+}
+
+.button__excluir {
+    margin-left: 627px;
+}
