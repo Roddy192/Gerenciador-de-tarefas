@@ -18,5 +18,5 @@ document.getElementById('button__adicionar').onclick = function() {
 
     })
 
-d
+
  }
