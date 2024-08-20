@@ -18,5 +18,17 @@ document.getElementById('button__adicionar').onclick = function() {
 
     })
 
+ }
+
+ document.getElementById('button_em_Curso').onclick = function() {
+    document.querySelectorAll(".check"). forEach(function(check){
+        if(check.checked){
+            document.querySelector('.content__em-curso').appendChild(check.parentElement);
+
+
+
+
+        }
+    })
 
  }
